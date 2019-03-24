@@ -1,4 +1,4 @@
-# RikHole
+# Rik-hole
 
 Pi-hole setup for my Synology NAS.
 
