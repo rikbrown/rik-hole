@@ -1,6 +1,6 @@
 # RikHole
 
-pihole setup for my Synology NAS.
+Pi-hole setup for my Synology NAS.
 
 ## Setup 
 
@@ -12,7 +12,7 @@ pihole setup for my Synology NAS.
 
 ### Fixing reverse lookups
 
-Reverse lookups won't work because Pihole isn't the DHCP server (that's still the router).
+Reverse lookups won't work because Pi-hole isn't the DHCP server (that's still the router).
 
 We can forward these instead:
 
