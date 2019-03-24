@@ -2,6 +2,10 @@
 
 Pi-hole setup for my Synology NAS.
 
+## Notes
+
+For simplicity, this uses host networking. The `WEBPORT` is modified to `7780` to avoid conflicting with anything running in 80 (e.g. Nginx).
+
 ## Setup 
 
 ### Initial
