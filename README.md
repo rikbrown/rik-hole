@@ -32,3 +32,7 @@ server=/2.168.192.in-addr.apra/192.168.1.1
 
 (substituting as appropriate).
 
+### LetsEncrypt Nginx
+
+The config file in `letsencrypt/` can be dropped into LetsEncrypt's `nginx/proxy-confs` to make the Pi-hole admin interface available via reverse proxy.
+
